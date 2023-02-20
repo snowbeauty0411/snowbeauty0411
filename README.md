@@ -1,7 +1,5 @@
 ### Hi everyone 👋
 
-🤔 I'm Front End Developer.<br/>
-
 <br />
 
 ## Skills:
